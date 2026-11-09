@@ -1,0 +1,29 @@
+D|Apple Scab Leaf
+H|Apple leaf
+D|Apple rust leaf
+H|Bell_pepper leaf
+D|Bell_pepper leaf spot
+H|Blueberry leaf
+H|Cherry leaf
+D|Corn Gray leaf spot
+D|Corn leaf blight
+D|Corn rust leaf
+H|Peach leaf
+H|Potato leaf
+D|Potato leaf early blight
+D|Potato leaf late blight
+H|Raspberry leaf
+H|Soyabean leaf
+D|Squash Powdery mildew leaf
+H|Strawberry leaf
+D|Tomato Early blight leaf
+D|Tomato Septoria leaf spot
+H|Tomato leaf
+D|Tomato leaf bacterial spot
+D|Tomato leaf late blight
+D|Tomato leaf mosaic virus
+D|Tomato leaf yellow virus
+D|Tomato mold leaf
+D|Tomato two spotted spider mites leaf
+H|grape leaf
+D|grape leaf black rot
